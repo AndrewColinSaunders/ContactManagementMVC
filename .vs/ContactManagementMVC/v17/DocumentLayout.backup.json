@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\controllers\\contactsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\controllers\\contactsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\wwwroot\\js\\contacts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\wwwroot\\js\\contacts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\read me.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\contacts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\contacts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\contacts\\_addcontactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\contacts\\_addcontactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\data\\migrations\\20240816212946_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\data\\migrations\\20240816212946_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\contacts\\_editcontactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\contacts\\_editcontactform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|c:\\users\\andre\\source\\repos\\contactmanagementmvc\\contactmanagementmvc\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF50CCD2-324C-481F-A3DB-845AD61DA40F}|ContactManagementMVC\\ContactManagementMVC.csproj|solutionrelative:contactmanagementmvc\\views\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\Migrations\\20240816212917_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactManagementMVC\\Data\\Migrations\\20240816212917_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\appsettings.Development.json",
+              "RelativeToolTip": "ContactManagementMVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T13:28:03.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "READ ME.txt",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\READ ME.txt",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\READ ME.txt",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\READ ME.txt",
+              "RelativeToolTip": "ContactManagementMVC\\READ ME.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-17T12:59:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T20:43:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T08:58:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contacts.js",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\js\\contacts.js",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\wwwroot\\js\\contacts.js",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\js\\contacts.js",
+              "RelativeToolTip": "ContactManagementMVC\\wwwroot\\js\\contacts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T09:48:44.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ContactManagementMVC\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T09:55:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAwwJ4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:41:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\ContactsApiController.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Controllers\\ContactsApiController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\ContactsApiController.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Controllers\\ContactsApiController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwIAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:28:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ContactManagementMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T12:33:25.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Services\\TokenService.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:34:58.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\appsettings.json",
+              "RelativeToolTip": "ContactManagementMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T19:29:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T19:58:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Program.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:29:03.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Contacts.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T20:35:42.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T21:12:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T12:24:53.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T12:24:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:24:50.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T12:24:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_AddContactForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\_AddContactForm.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Contacts\\_AddContactForm.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\_AddContactForm.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Contacts\\_AddContactForm.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T08:28:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T19:47:59.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T19:48:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\Add.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Contacts\\Add.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\Add.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Contacts\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T20:51:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T19:57:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:33:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:34:05.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:23:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:22:15.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240816212946_M3.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\Migrations\\20240816212946_M3.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Data\\Migrations\\20240816212946_M3.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\Migrations\\20240816212946_M3.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Data\\Migrations\\20240816212946_M3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:29:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:33:00.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:24:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:27:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T21:41:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "ContactManagementMVC\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-08-17T12:21:33.067Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_EditContactForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\_EditContactForm.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Contacts\\_EditContactForm.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\_EditContactForm.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Contacts\\_EditContactForm.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T08:44:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Views\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Views\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "ContactManagementMVC\\Views\\Contacts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T20:52:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240816212917_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\Migrations\\20240816212917_Initial.cs",
+              "RelativeDocumentMoniker": "ContactManagementMVC\\Data\\Migrations\\20240816212917_Initial.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ContactManagementMVC\\ContactManagementMVC\\Data\\Migrations\\20240816212917_Initial.cs",
+              "RelativeToolTip": "ContactManagementMVC\\Data\\Migrations\\20240816212917_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:29:17.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

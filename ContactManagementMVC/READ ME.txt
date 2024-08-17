@@ -1,0 +1,22 @@
+## Setting Up the Project
+
+### 1. Update the Connection String
+
+Replace the connection string in `appsettings.json` with your SQL Server connection string.
+
+
+### 2. Install Dependencies
+
+Restore the necessary NuGet packages:
+
+In solution Explorer, select Restore NuGet Packages.
+Alternatively, you can use the Package Manager Console to run: 'dotnet restore'
+
+
+### 3. Apply Migrations
+
+Ensure the database is up-to-date by applying the latest Entity Framework Core migrations:
+In the Package Manager Console, run the following: 'update-database'.
+
+
+### 4. Build and Run solution.
